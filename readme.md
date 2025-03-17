@@ -33,7 +33,7 @@ Este projeto é um **Dashboard Responsivo** desenvolvido com HTML, CSS e JavaScr
 
 1. **Clonar o repositório**:
 ```bash
-git clone <URL do repositório>
+git clone <https://github.com/dudamilannnn/dashboard-responsivo.git>
 ```
 2. **Navegue até o diretório do projeto**:
 ```bash
